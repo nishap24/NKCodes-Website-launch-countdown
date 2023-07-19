@@ -90,7 +90,9 @@ Note: The provided code offers a foundation for a visually appealing countdown s
 - Easy Customization: Modify the content, styling, and countdown date in the code to fit your needs.
 
 
+## Deployment Status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/598a9d32-63f9-4e3d-8042-8ebba578c856/deploy-status)](https://app.netlify.com/sites/kanasu-website-launch-count-down/deploys)
 
 
 ## Contributing
